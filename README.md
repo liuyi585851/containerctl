@@ -1,7 +1,7 @@
 # Container Control Tool
 ***Based on runc***
 ## Usage
-### ./containerctl <command> <parameters>
+./containerctl <command> <parameters>
 ## Command
 ### create 
 pull image and create a container
